@@ -1,0 +1,10 @@
+.App {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+div {
+  display: block;
+}
+body {
+  background-color: #E5E7EB;
+}
